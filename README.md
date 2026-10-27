@@ -1,234 +1,254 @@
 <!--
-  SASHINI MANIKANDAN | GITHUB PROFILE README
-  Replace YOUR_USERNAME and placeholder project links before publishing.
+  SASHINI MANIKANDAN — DIGITAL COMMAND CENTRE
+  Replace YOUR_USERNAME with your GitHub username.
 -->
 
 <div align="center">
 
-<a href="https://nyuad.nyu.edu/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,40:102A56,75:155EEF,100:00D9FF&text=SASHINI%20MANIKANDAN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20%7C%20AI%20%7C%20INNOVATION&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Sashini Manikandan — Engineering, AI and Innovation"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=SASHINI%20MANIKANDAN&fontSize=48&fontColor=00F5FF&stroke=00F5FF&strokeWidth=1&animation=fadeIn&color=0:020617,40:0B1739,100:020617&desc=ENGINEER%20YOUR%20CURIOSITY.&descSize=15&descAlignY=72" />
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+ideas+into+reality.;Engineering+with+purpose.;Curiosity+is+my+operating+system.;Exploring+the+future%2C+one+project+at+a+time." alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=700&height=35&lines=%3E+INITIALIZING+INNOVATION+PROTOCOL...;%3E+ENGINEERING+MEETS+IMAGINATION;%3E+SYSTEMS+THINKER.+BUILDER.+EXPLORER.;%3E+CURRENT+BASE%3A+NYU+ABU+DHABI;%3E+THE+FUTURE+IS+AN+OPEN+SOURCE+PROBLEM." alt="Animated terminal introduction"/>
 
 <br/>
 
-<a href="https://nyuad.nyu.edu/"><img src="https://img.shields.io/badge/UNIVERSITY-NYU%20ABU%20DHABI-57068C?style=for-the-badge&logo=academia&logoColor=white" alt="New York University Abu Dhabi"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/STATUS-BUILDING%20WHAT'S%20NEXT-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Building what's next"/></a>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/BASE-NYU_ABU_DHABI-7C3AED?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/MODE-ALWAYS_BUILDING-00F5FF?style=flat-square&labelColor=020617" />
 
 <br/><br/>
 
-[ABOUT](#-about-me) · [PROJECTS](#-featured-projects) · [INTERESTS](#-areas-of-exploration) · [JOURNEY](#-the-journey) · [CONNECT](#-lets-connect)
+`[ ENGINEERING ]` &nbsp; ` [ ARTIFICIAL INTELLIGENCE ]` &nbsp; `[ SCIENCE ]` &nbsp; `[ IMPACT ]`
 
 </div>
 
 ---
-
-## `01` / About Me
-
-```python
-class SashiniManikandan:
-    university = "New York University Abu Dhabi"
-    interests = [
-        "Engineering",
-        "Computer Science",
-        "Artificial Intelligence",
-        "Robotics",
-        "Sustainable Technology",
-    ]
-    philosophy = "Build with curiosity. Engineer with purpose."
-    current_mode = "Learning -> Experimenting -> Building"
-
-    def mission(self):
-        return "Turn ambitious ideas into meaningful innovations."
-```
-
-I'm interested in the space where **engineering meets intelligence, science meets creativity, and technology meets human impact.**
-
-From robotics and scientific exploration to sustainability initiatives and product innovation, I enjoy asking questions that don't have obvious answers — and building things that bring possible answers to life.
-
-Currently studying at **New York University Abu Dhabi (NYUAD)**, I'm continuing to explore the technologies, disciplines, and ideas that will shape our future.
-
-<div align="center">
-
-### `THINK  →  DESIGN  →  BUILD  →  ITERATE`
-
-</div>
-
----
-
-## `02` / Featured Projects
 
 <details open>
-<summary><b>🌱 Greenovation — Exploring Energy from Nature</b></summary>
+<summary><b>◈ 00 — SYSTEM BRIEFING</b></summary>
 
 <br/>
 
-**Domain:** Sustainability · Electrochemistry · Design Thinking
+```text
+IDENTITY      SASHINI MANIKANDAN
+AFFILIATION   NEW YORK UNIVERSITY ABU DHABI
+DIRECTIVE     EXPLORE. ENGINEER. INNOVATE.
+SPECIALTY     INTERDISCIPLINARY PROBLEM-SOLVING
+PHILOSOPHY    THE IMPOSSIBLE IS A DESIGN CHALLENGE.
+```
 
-An environmental innovation project exploring soil-based bioelectrochemical systems, using electrodes and the potential of microbial activity to investigate alternative approaches to energy generation.
+I'm fascinated by the space between **what exists and what could exist**.
 
-**Core concepts:** Soil-based electrical systems · Bioelectrochemistry · Sustainable innovation
+My interests span engineering, computer science, artificial intelligence, robotics, sustainability, and entrepreneurship. I enjoy investigating complex problems, connecting ideas across disciplines, and exploring how ambitious concepts can become practical solutions.
 
-</details>
+My journey has taken me through scientific exploration, STEM competitions, student leadership, and innovation projects. At NYU Abu Dhabi, I'm continuing to expand that curiosity into new disciplines, collaborations, and technical challenges.
 
-<details>
-<summary><b>🩺 Bump2Baby — Technology for Maternal Health</b></summary>
-
-<br/>
-
-**Domain:** Health Technology · Wearables · Entrepreneurship
-
-A maternal-health innovation concept focused on wearable monitoring and early identification of potential pregnancy-related complications.
-
-Recognised with **first place at the TruNext Pitching Competition** and an incubation grant of AED 10,000.
-
-**Core concepts:** Wearable technology · Preventive healthcare · Human-centred design
+**I don't just want to understand how the world works. I want to explore how we can make it work better.**
 
 </details>
 
-<details>
-<summary><b>💸 Tran$Flow — Financial Intelligence for Students</b></summary>
-
-<br/>
-
-**Domain:** AI · FinTech · Software Engineering
-
-An AI-powered financial copilot concept designed around international students' financial obligations, recurring payments, cash-flow forecasting, and cross-border remittance decisions.
-
-The goal: make complicated financial workflows easier to understand and manage through intelligent assistance.
-
-**Core concepts:** Financial analytics · AI agents · Forecasting · Remittance optimisation
-
-</details>
-
-<details>
-<summary><b>🌍 Environmental & Community Innovation</b></summary>
-
-<br/>
-
-Exploring the intersection of sustainability, youth leadership, and practical environmental action — from awareness initiatives to technology-enabled approaches for reducing environmental impact.
-
-**Core concepts:** Climate action · Resource conservation · Community-led innovation
-
-</details>
+---
 
 <div align="center">
 
-*Have an interesting problem? That's usually where the fun begins.*
+## ◈ 01 — MISSION SELECT
+
+*Select a file to access the project briefing.*
 
 </div>
 
-> **Want these project cards to open your actual repositories?** Replace each section's heading with a link to its corresponding GitHub repository when the code is published.
+<details>
+<summary>🟢 <b>MISSION 001 — GREENOVATION</b> / Bioelectrochemical Systems</summary>
+
+<br/>
+
+**CLASSIFICATION:** SUSTAINABLE TECHNOLOGY
+
+> Can the ground beneath our feet become part of the energy solution?
+
+An exploration of soil-based electrical systems using electrodes and the potential of electroactive microorganisms to investigate alternative energy-generation pathways.
+
+`SOIL SCIENCE` → `ELECTROCHEMISTRY` → `SUSTAINABLE INNOVATION`
+
+**Objective:** Investigate the interface between biological processes, materials, and clean-energy concepts.
+
+</details>
+
+<details>
+<summary>🔵 <b>MISSION 002 — BUMP2BABY</b> / Maternal Health Technology</summary>
+
+<br/>
+
+**CLASSIFICATION:** HUMAN-CENTRED INNOVATION
+
+A maternal-health technology concept focused on wearable monitoring and the early identification of potential pregnancy complications.
+
+**Milestone:** First place at the TruNext Pitching Competition and an AED 10,000 incubation grant.
+
+`WEARABLES` → `HEALTH MONITORING` → `PREVENTIVE CARE`
+
+**Objective:** Explore how accessible technology could support maternal health and timely clinical attention.
+
+</details>
+
+<details>
+<summary>🟣 <b>MISSION 003 — TRAN$FLOW</b> / AI Financial Copilot</summary>
+
+<br/>
+
+**CLASSIFICATION:** INTELLIGENT SOFTWARE
+
+An AI-powered financial assistant concept designed to help international students understand recurring payments, anticipate cash-flow needs, and evaluate cross-border remittance decisions.
+
+`TRANSACTION DATA` → `PREDICTION` → `DECISION SUPPORT`
+
+**Objective:** Make complex financial workflows easier to understand through intelligent automation.
+
+</details>
+
+<details>
+<summary>⚪ <b>MISSION 004 — NEXT FRONTIER</b> / Research & Development</summary>
+
+<br/>
+
+**CLASSIFICATION:** ACTIVE EXPLORATION
+
+Current areas of curiosity include:
+
+- Intelligent systems and AI-powered applications
+- Embedded electronics and robotics
+- Sustainable engineering and clean technologies
+- Computational approaches to scientific problems
+- Technology entrepreneurship and product design
+
+**Status:** Always learning. Always exploring.
+
+</details>
 
 ---
 
-## `03` / Areas of Exploration
-
 <div align="center">
 
-<a href="https://github.com/topics/artificial-intelligence"><img src="https://img.shields.io/badge/AI%20%26%20INTELLIGENCE-0B1020?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="Artificial intelligence"/></a>
-<a href="https://github.com/topics/robotics"><img src="https://img.shields.io/badge/ROBOTICS-0B1020?style=for-the-badge&logo=arduino&logoColor=00D9FF" alt="Robotics"/></a>
-<a href="https://github.com/topics/sustainability"><img src="https://img.shields.io/badge/SUSTAINABILITY-0B1020?style=for-the-badge&logo=leaflet&logoColor=00D9FF" alt="Sustainability"/></a>
-<a href="https://github.com/topics/electronics"><img src="https://img.shields.io/badge/ELECTRONICS-0B1020?style=for-the-badge&logo=raspberrypi&logoColor=00D9FF" alt="Electronics"/></a>
-<a href="https://github.com/topics/fintech"><img src="https://img.shields.io/badge/FINTECH-0B1020?style=for-the-badge&logo=bitcoin&logoColor=00D9FF" alt="Financial technology"/></a>
+## ◈ 02 — THE ENGINEERING MINDSET
 
 </div>
 
-| Field | What interests me |
-|:--|:--|
-| ⚡ Engineering | Systems, electronics, and turning theory into working prototypes |
-| 🧠 Artificial Intelligence | Intelligent applications and responsible AI |
-| 🤖 Robotics | Hardware, software, and real-world problem-solving |
-| 🌱 Sustainability | Cleaner technologies and resource-efficient solutions |
-| 🚀 Entrepreneurship | Taking an idea from concept to a useful product |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` / DECONSTRUCT
+
+Break complicated systems into understandable parts. Find the underlying mechanism.
+
+</td>
+<td width="50%" valign="top">
+
+### `02` / EXPERIMENT
+
+Build a hypothesis. Test it. Learn from the evidence. Iterate.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03` / CONNECT
+
+Bring together ideas from engineering, science, computation, and society.
+
+</td>
+<td width="50%" valign="top">
+
+### `04` / DEPLOY
+
+Turn insight into something useful, measurable, and meaningful.
+
+</td>
+</tr>
+</table>
 
 ---
-
-## `04` / The Journey
-
-<details>
-<summary><b>🏆 Academic Excellence & Recognition</b></summary>
-
-<br/>
-
-- Sheikh Hamdan Award for Distinguished Academic Performance
-- Sharjah Award for Educational Excellence
-- Sheikh Sultan Award for Celebrating the Spirit of Youth
-- Youth innovation, scientific exploration, and STEM competition experience
-
-</details>
-
-<details>
-<summary><b>🎓 Leadership & Community</b></summary>
-
-<br/>
-
-- Former Head Girl at Delhi Private School, Sharjah
-- Youth participation in environmental initiatives and international forums
-- Experience working across teams on innovation and community-focused projects
-
-</details>
-
-<details>
-<summary><b>🔬 Scientific Curiosity</b></summary>
-
-<br/>
-
-My interests extend beyond conventional classroom boundaries — exploring chemistry, scientific reasoning, emerging technologies, and the possibilities that appear when different fields intersect.
-
-</details>
-
----
-
-## `05` / My Operating Principles
 
 <div align="center">
 
-| `01` | CURIOSITY |
-|:--:|:--|
-| `02` | EXPERIMENTATION |
-| `03` | INTERDISCIPLINARY THINKING |
-| `04` | PURPOSEFUL INNOVATION |
+## ◈ 03 — ACHIEVEMENT ARCHIVE
+
+<img src="https://img.shields.io/badge/ACADEMICS-Sheikh%20Hamdan%20Award-0B1020?style=for-the-badge&labelColor=102A56" />
+
+<img src="https://img.shields.io/badge/EXCELLENCE-Sharjah%20Award-0B1020?style=for-the-badge&labelColor=102A56" />
+
+<img src="https://img.shields.io/badge/YOUTH-Sheikh%20Sultan%20Award-0B1020?style=for-the-badge&labelColor=102A56" />
+
+<br/>
+
+Former Head Girl · STEM Competition Participant · Sustainability Advocate
 
 </div>
 
-I don't believe every interesting question needs an immediate answer. Sometimes the most valuable thing is to investigate further, challenge the first assumption, and discover a better question.
+---
 
-**My aim is simple:** keep learning, build thoughtfully, and contribute to technology that makes a difference.
+<details>
+<summary><b>◈ 04 — DEVELOPER CONSOLE / TECH STACK</b></summary>
+
+<br/>
+
+The tools below represent areas of exploration, not a claim that every technology is already part of my production toolkit.
+
+| Domain | Focus |
+|---|---|
+| Software | Programming, algorithms, application development |
+| AI | Intelligent applications, automation, data-driven systems |
+| Hardware | Electronics, embedded systems, robotics |
+| Science | Experimental thinking, modelling, interdisciplinary research |
+| Product | Prototyping, design thinking, user-centred innovation |
+
+</details>
 
 ---
 
-## `06` / Let's Connect
+<div align="center">
+
+## ◈ 05 — LIVE TELEMETRY
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=020617&title_color=00F5FF&icon_color=7C3AED&text_color=CBD5E1&ring_color=00F5FF" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=020617&title_color=00F5FF&text_color=CBD5E1" alt="Most-used programming languages"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020617&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
 
 <div align="center">
+
+## ◈ 06 — ESTABLISH CONNECTION
+
+**Have a difficult problem, an ambitious idea, or an interesting experiment?**
+
+I'm interested in the conversations that lead somewhere unexpected.
+
+<br/>
 
 <a href="https://ae.linkedin.com/in/sashini-manikandan">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-ESTABLISH%20CONNECTION-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-ACCESS%20REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=020617"/>
 </a>
 
 <br/><br/>
 
-**Open to:** Interesting ideas · Technical collaborations · Research exploration · Building things that matter
+```text
+END OF BRIEFING.
+THE WORK IS JUST BEGINNING.
+```
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,50:102A56,100:00F5FF"/>
 
-*Curious by nature. Interdisciplinary by design. Impact-driven by choice.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:155EEF,100:050816&height=100&section=footer" width="100%" alt="Decorative blue gradient footer"/>
+<sub>DESIGNED AROUND CURIOSITY. POWERED BY POSSIBILITY.</sub>
 
 </div>
 
-<!-- Optional profile statistics. Uncomment after replacing YOUR_USERNAME.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=FFFFFF" height="165" alt="Most-used languages"/>
-</div>
-
--->
+<!-- Replace YOUR_USERNAME everywhere before publishing. -->
